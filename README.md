@@ -10,4 +10,4 @@ An array is a collection of homogeneous items stored in a contiguous memory loca
 Array index starts with 0 and should be declared with definite size.
 Below are the problems solved in arrays.
 
-1. [Count number of smaller elements] https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BruteForce/CountingElements.java
+1. [Count number of smaller elements] (https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BruteForce/CountingElements.java)
