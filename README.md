@@ -6,6 +6,7 @@ I have created this repository to learn and implement data structures and algori
 Below are the data structures and algorithms added to this repository.
 
 **ARRAYS**
+
 An array is a collection of homogeneous items stored in a contiguous memory location.
 Array index starts with 0 and should be declared with definite size.
 Below are the problems solved in arrays using Brute force technique.
@@ -29,6 +30,7 @@ Below are the problems solved in arrays using Brute force technique.
 
 
 **TWO POINTERS ALGORITHM IN ARRAYS AND STRING**
+
 This algorithm is useful in reducing space and time complexity
 * 2 approach
   * Equi direction (Slow pointer, Fast pointer)
@@ -54,6 +56,7 @@ This algorithm is useful in reducing space and time complexity
 **THREE POINTER ALGORITHM**
 This algorithm is useful in the problems having 3 variants. 
 **RULES**
+
   * 3 pointers - low, mid, high
   * Traverse the array from left to right and stop when mid crosses high
  
