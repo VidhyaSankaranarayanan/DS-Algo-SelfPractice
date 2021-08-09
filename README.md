@@ -57,4 +57,4 @@ This algorithm is useful in the problems having 3 variants.
   * 3 pointers - low, mid, high
   * Traverse the array from left to right and stop when mid crosses high
  
-* [Sort Colors}(https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/SortColors.java)
+* [Sort Colors](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/SortColors.java)
