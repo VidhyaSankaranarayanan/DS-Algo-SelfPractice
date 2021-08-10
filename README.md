@@ -60,4 +60,25 @@ This algorithm is useful in the problems having 3 variants.
 **RULES**
   * 3 pointers - low, mid, high
   * Traverse the array from left to right and stop when mid crosses high
-[Sort Colors](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/SortColors.java)
+  * [Sort Colors](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/SortColors.java)
+
+
+**SLIDING WINDOW**
+
+This technique has time complexity - O(n) & space complexity - O(1)
+It is useful for problems to find consecutive elements with or without target.
+It is a subset of dynamic programming
+**Approach:** Maintain a subset of items as window and resize the window, move the window within the length and find the solution
+
+* [Absolute Difference Between Indices](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/AbsoluteDifference.java)
+* [Find Subarray whose sum equals to target](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/FindSubArray.java)
+* [Maximum consecutive sum of target elements](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/MaxSum.java)
+* [Maximum Average value of given length](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/MaximumAverageSubArray.java)
+* [Shortest distance of a character](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/ShortestDistanceOfACharacter.java)
+* [Find Anagram sub array](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/FindAnagrams.java)
+* [Grumpy Owner](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/GrumpyOwner_SlidingWindow.java)
+* [Total Calories](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/TotalCaloriesSlidingWindow.java)
+* [String Permutations](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/StringPermutation.java)
+* [Minimum length subarray whose sum equals to target](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/MinimumSizeSubArraySum.java)
+* [Last Matching Anagram](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/LastMatchingAnagram.java)
+
