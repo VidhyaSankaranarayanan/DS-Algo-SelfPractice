@@ -66,8 +66,11 @@ This algorithm is useful in the problems having 3 variants.
 **SLIDING WINDOW**
 
 This technique has time complexity - O(n) & space complexity - O(1)
+
 It is useful for problems to find consecutive elements with or without target.
+
 It is a subset of dynamic programming
+
 **Approach:** Maintain a subset of items as window and resize the window, move the window within the length and find the solution
 
 * [Absolute Difference Between Indices](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/AbsoluteDifference.java)
