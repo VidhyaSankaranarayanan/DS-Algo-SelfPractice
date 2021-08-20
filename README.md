@@ -27,6 +27,7 @@ Below are the problems solved in arrays using Brute force technique.
 * [Minimum Difference sum](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BruteForce/MinimumDifferenceSum.java)
 * [Maximum Consecutive Sum](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BruteForce/MaxConsecutiveSum.java)
 * [K Smallest Sub array sum](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BruteForce/KSmallestSubarraySum.java) 
+* [Trapping Rain Water](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BruteForce/TrappingRainWater.java)
 
 
 **TWO POINTERS ALGORITHM IN ARRAYS AND STRING**
@@ -51,6 +52,7 @@ This algorithm is useful in reducing space and time complexity
 * [Find Average Salary](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/AverageSalary.java)
 * [Find no of ones](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/FindNoOfOnes.java)
 * [Find Kth factor](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/FindKthFactor.java)
+* [Fizz Buzz series](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/FizzBuzz.java)
 
 
 **THREE POINTER ALGORITHM**
@@ -84,6 +86,7 @@ It is a subset of dynamic programming
 * [String Permutations](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/StringPermutation.java)
 * [Minimum length subarray whose sum equals to target](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/MinimumSizeSubArraySum.java)
 * [Last Matching Anagram](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/LastMatchingAnagram.java)
+* [Return True if the subarray equals to given sum](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/SlidingWindow/SubArraySum.java)
 
 **KANDANE ALGORITHM**
 
@@ -126,6 +129,7 @@ Hash map - problems require mapping of keys and values
 * [Reverse Unique Character](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/ReverseUniqueCharacter.java)
 * [Character Reprogramming](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/CharacterReprogramming.java)
 * [Group Transaction Names](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/GroupTransactionNames.java)
+* [Uniform String](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/uniformString.java)
 
 **BINARY SEARCH**
 
@@ -151,6 +155,7 @@ Condition: Test data should be sorted
 * [Closest sum](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BinarySearch/ClosestSum.java)
 * [Find target element's position](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BinarySearch/FindTargetUsingBinarySearch.java)
 * [Find Next Biggest Character](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BinarySearch/FindNextBiggestCharacter.java)
+* [Minimum Train Speed](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BinarySearch/MinimumSpeed.java)
 
 
 **LINKED LIST**
