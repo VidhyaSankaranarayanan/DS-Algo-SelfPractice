@@ -28,6 +28,7 @@ Below are the problems solved in arrays using Brute force technique.
 * [Maximum Consecutive Sum](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BruteForce/MaxConsecutiveSum.java)
 * [K Smallest Sub array sum](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BruteForce/KSmallestSubarraySum.java) 
 * [Trapping Rain Water](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/BruteForce/TrappingRainWater.java)
+* [Circular Printer](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Linear%20Approach/CircularPrinter.java)
 
 
 **TWO POINTERS ALGORITHM IN ARRAYS AND STRING**
@@ -53,6 +54,7 @@ This algorithm is useful in reducing space and time complexity
 * [Find no of ones](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/FindNoOfOnes.java)
 * [Find Kth factor](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/FindKthFactor.java)
 * [Fizz Buzz series](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/FizzBuzz.java)
+* [Reverse List](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/ReverseList.java)
 
 
 **THREE POINTER ALGORITHM**
@@ -130,6 +132,10 @@ Hash map - problems require mapping of keys and values
 * [Character Reprogramming](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/CharacterReprogramming.java)
 * [Group Transaction Names](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/GroupTransactionNames.java)
 * [Uniform String](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/uniformString.java)
+* [Find First Unique character](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/UniqueCharacter.java)
+* [Smallest Negative Balance](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/SmallestNegativeBalance.java)
+* [Longest first occurring Even Length Word](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/LongestEvenLengthWord.java)
+* [Sort the product by values](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Hashing/ProductSort.java)
 
 **BINARY SEARCH**
 
