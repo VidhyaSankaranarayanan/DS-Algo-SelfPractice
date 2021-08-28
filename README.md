@@ -236,6 +236,20 @@ Lines of code will be less
 * [Decode String](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Recursion/DecodeString.java)
 * [Card game](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Recursion/CardGame.java)
 
+** MEETING SCHEDULE **
+
+Steps to remember
+1. Convert into 2D array
+2. Sort the array
+3. Think the logic and solve
+
+* [Attend All Meetings](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/MeetingSchedule/AttendAllMeetings.java)
+* [Available Time Slots](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/MeetingSchedule/AvailableTimeSlots.java)
+* [Attend Maximum Conference](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/MeetingSchedule/MaximumConference.java)
+* [Minimum Meeting Rooms Required](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/MeetingSchedule/MeetingRooms.java)
+* [Merge Intervals](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/MeetingSchedule/MergeIntervals.java)
+* [Minimum Train Platforms](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/MeetingSchedule/TrainPlatforms.java)
+
 
 
 
