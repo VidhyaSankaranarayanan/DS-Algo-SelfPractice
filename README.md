@@ -55,6 +55,9 @@ This algorithm is useful in reducing space and time complexity
 * [Find Kth factor](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/FindKthFactor.java)
 * [Fizz Buzz series](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/FizzBuzz.java)
 * [Reverse List](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/ReverseList.java)
+* [Find K Diff Pairs](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/FindKDiffPairs.java)
+* [Shortest Unsorted Subarray Length](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/ShortestUnsortedSubArray.java)
+* [Pancake Sort](https://github.com/VidhyaSankaranarayanan/DS-Algo-SelfPractice/blob/main/Two%20Pointers/PancakeSort.java)
 
 
 **THREE POINTER ALGORITHM**
