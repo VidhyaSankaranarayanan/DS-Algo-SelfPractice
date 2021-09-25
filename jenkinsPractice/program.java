@@ -6,6 +6,7 @@ public class program {
 		System.out.println("SCM trigger");
 		System.out.println("SCM trigger");
 System.out.println("Webhook trigger");
+		System.out.println("New code change for webhook trigger");
 	}
 
 }
